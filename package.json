@@ -1,0 +1,22 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "nohola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dieg02312/database.git"
+  },
+  "author": "diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dieg02312/database/issues"
+  },
+  "homepage": "https://github.com/Dieg02312/database#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
